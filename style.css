@@ -7,6 +7,10 @@ body {
   justify-content: space-between;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
@@ -69,4 +73,16 @@ li {
   padding: 32px;
   column-gap: 1rem;
   row-gap: 1rem;
+}
+
+a {
+  color:blanchedalmond;
+}
+
+li {
+  text-decoration: none;
+}
+
+a.li {
+  border: none;
 }
